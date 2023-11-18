@@ -44,9 +44,9 @@ Brace expansion is used for generating arbitrary strings to use with commands.
   * Create an entire dir. structure in a single command.
     * `mkdir -p music/{jazz,rock}/{mp3files,videos,oggfiles}/new{1..3}`
   * Create N number of files.
-    * touch website{1..5}.html
+    * `touch website{1..5}.html`
   * Remove multiple files in a single dir.
-    * rm -r {dir1,dir2,dir3,file.text,file.py}
+    * `rm -r {dir1,dir2,dir3,file.text,file.py}`
 
 ## Practice
 
