@@ -202,6 +202,7 @@ Examples:
 
 ### How to work with multiple terminals open?
 * Use the "add terminals" buttons on the top left of Tilix
+* ![q2.1](q2.1.png)
 
 ### How to work with manual pages?
 * Use the arrow keys or the man-command internal shortcuts.
